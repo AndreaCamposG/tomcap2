@@ -241,7 +241,7 @@
 				a {
 					@include inline-block;
 					margin: 0 15px;
-					color: rgba(255,255,255,.5);
+					color: rgba(255,255,255, 1);
 					// text-transform: uppercase;
 					font-size: $font-size-base;
 					padding: 10px 0;
@@ -250,7 +250,7 @@
 					}
 					&:hover {	
 						text-decoration: none;
-						color: rgba(255,255,255,1);
+						border-bottom: 1px solid white;
 					}
 					&:active, &:focus {
 						text-decoration: none;

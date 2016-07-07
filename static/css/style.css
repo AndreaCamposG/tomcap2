@@ -1612,7 +1612,7 @@ a:hover .lnk-icon-right {
   position: relative;
   background-position: left top; }
   .fh5co-features-style-1 > .fh5co-overlay {
-    background: rgba(0, 0, 0, 0.6); }
+    background: rgba(0, 0, 0, 0.3); }
 
 .fh5co-features-style-2 .fh5co-feature {
   margin-bottom: 30px;
@@ -2842,5 +2842,6 @@ a:hover .lnk-icon-right {
   @media screen and (max-width: 768px) {
     .fh5co-nav-toggle {
       display: block; } }
+
 
 /*# sourceMappingURL=style.css.map */
